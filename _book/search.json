@@ -1,0 +1,132 @@
+[
+  {
+    "objectID": "chapters/chapter1.html",
+    "href": "chapters/chapter1.html",
+    "title": "Chapter 1: Getting Started",
+    "section": "",
+    "text": "Getting Started\nWelcome to the first chapter!\nHere’s some content to demonstrate how chapters work in a Quarto book.\nYou can write markdown, embed R or Python code, add figures, and more.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chapter 1: Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter1.html#topics",
+    "href": "chapters/chapter1.html#topics",
+    "title": "Chapter 1: Getting Started",
+    "section": "Topics",
+    "text": "Topics\n\nWhy use Quarto\nMarkdown basics\nBook structure",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chapter 1: Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter1.html#example-code",
+    "href": "chapters/chapter1.html#example-code",
+    "title": "Chapter 1: Getting Started",
+    "section": "Example Code",
+    "text": "Example Code\nHere’s a quick R code block:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chapter 1: Getting Started</span>"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cook Like a Dad",
+    "section": "",
+    "text": "Preface\nWelcome to my continuously evolving cookbook. I like to cook for my kids and I am learning as much as I can.\nIf you want to contribute your recipe to this book please send me an email at rohit@rohitfarmer.com.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#about-this-book",
+    "href": "index.html#about-this-book",
+    "title": "Introduction",
+    "section": "About this Book",
+    "text": "About this Book\nThis book is written in Quarto and rendered to HTML. You can also download the entire book as a PDF using the link above.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#chapters",
+    "href": "index.html#chapters",
+    "title": "Introduction",
+    "section": "Chapters",
+    "text": "Chapters\n\nChapter 1",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/breakfast.html",
+    "href": "chapters/breakfast.html",
+    "title": "2  Breakfast",
+    "section": "",
+    "text": "2.1 French Toast\nIngredients\nSteps",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Breakfast</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/breakfast.html#french-toast",
+    "href": "chapters/breakfast.html#french-toast",
+    "title": "2  Breakfast",
+    "section": "",
+    "text": "Two slices of bread\nOne egg\nA couple of tablespoons of milk\nSugar to taste\nA drop of vanilla extract\nPowdered sugar for dressing (optional)\n\n\n\nWhisk the egg with milk and sugar until the sugar is dissolved.\nAdd a drop of vanilla extract and mix it well.\nPour the mix into a vast and shallow bowl or plate.\nSoak the bread slice on both sides.\nShallow fry the soaked bread in butter or oil.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Breakfast</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/breakfast.html#vegetable-namkeen-jave-vermicelli-upma",
+    "href": "chapters/breakfast.html#vegetable-namkeen-jave-vermicelli-upma",
+    "title": "2  Breakfast",
+    "section": "2.2 Vegetable Namkeen Jave (Vermicelli Upma)",
+    "text": "2.2 Vegetable Namkeen Jave (Vermicelli Upma)\nIngredients\n\nRoasted vermicelli (1 cup)\nWater (2 cups; twice as much as vermicelli)\nFinely chopped onions and tomato\nFinely chopped vegetables (carrots and/or peas and/or corn)\nCashews\nOil, cumin seeds, curry leaves, salt, and green chillies\n\nSteps\n\nHeat oil in a deep pan\nAdd cumin seeds, curry leaves, and green chillies\nCaramelize some onions\nAdd vegetables and sauté them at medium heat\nAdd tomatoes and cashews\nOnce the vegetables are cooked and tender, add vermicelli with twice as much water as vermicelli.\nCover and simmer for 10 minutes or until vermicelli is cooked.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Breakfast</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/appetizers.html",
+    "href": "chapters/appetizers.html",
+    "title": "1  Appetizers",
+    "section": "",
+    "text": "1.1 Pink Grapefruit And Avocado Slices In Dijon Mustard Vinaigrette\nCut the grapefruit and avocado into slices and place them in pairs. Dress them with a layer of Dijon mustard vinaigrette.\nIngredients for the vinaigrette\nSteps to make the vinaigrette\nCombine the mustard, vinegar, lemon juice, salt, and pepper in a small bowl or measuring cup. Whisk in the oil. Peel the garlic clove and lightly crush, or cut down to the root end with a paring knife, keeping the garlic clove intact. Place in the dressing and allow to marinate for at least 30 minutes. Remove from the dressing before serving.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Appetizers</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/appetizers.html#pink-grapefruit-and-avocado-slices-in-dijon-mustard-vinaigrette",
+    "href": "chapters/appetizers.html#pink-grapefruit-and-avocado-slices-in-dijon-mustard-vinaigrette",
+    "title": "1  Appetizers",
+    "section": "",
+    "text": "1 rounded tablespoon Dijon mustard\n1 ½ tablespoons red wine vinegar or sherry vinegar\n1 tablespoon fresh lemon juice\nSalt to taste\nFreshly ground pepper\n½ cup extra virgin olive oil, or use half olive oil and half canola or grapeseed oil\n1 small garlic clove",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Appetizers</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/breakfast.html#vegetable-namkeen-jave-salted-vermicelli-upma",
+    "href": "chapters/breakfast.html#vegetable-namkeen-jave-salted-vermicelli-upma",
+    "title": "2  Breakfast",
+    "section": "2.2 Vegetable Namkeen Jave (Salted Vermicelli Upma)",
+    "text": "2.2 Vegetable Namkeen Jave (Salted Vermicelli Upma)\nIngredients\n\nRoasted vermicelli (1 cup)\nWater (2 cups; twice as much as vermicelli)\nFinely chopped onions and tomato\nFinely chopped vegetables (carrots and/or peas and/or corn)\nCashews\nOil, cumin seeds, curry leaves, salt, and green chillies\n\nSteps\n\nHeat oil in a deep pan\nAdd cumin seeds, curry leaves, and green chillies\nCaramelize some onions\nAdd vegetables and sauté them at medium heat\nAdd tomatoes and cashews\nOnce the vegetables are cooked and tender, add vermicelli with twice as much water as vermicelli.\nCover and simmer for 10 minutes or until vermicelli is cooked.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Breakfast</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/breakfast.html#vegetable-namkeen-salted-jave-vermicelli-upma",
+    "href": "chapters/breakfast.html#vegetable-namkeen-salted-jave-vermicelli-upma",
+    "title": "2  Breakfast",
+    "section": "2.2 Vegetable Namkeen (salted) Jave (Vermicelli Upma)",
+    "text": "2.2 Vegetable Namkeen (salted) Jave (Vermicelli Upma)\nIngredients\n\nRoasted vermicelli (1 cup)\nWater (2 cups; twice as much as vermicelli)\nFinely chopped onions and tomato\nFinely chopped vegetables (carrots and/or peas and/or corn)\nCashews\nOil, cumin seeds, curry leaves, salt, and green chillies\n\nSteps\n\nHeat oil in a deep pan\nAdd cumin seeds, curry leaves, and green chillies\nCaramelize some onions\nAdd vegetables and sauté them at medium heat\nAdd tomatoes and cashews\nOnce the vegetables are cooked and tender, add vermicelli with twice as much water as vermicelli.\nCover and simmer for 10 minutes or until vermicelli is cooked.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Breakfast</span>"
+    ]
+  }
+]

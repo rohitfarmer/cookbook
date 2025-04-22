@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Cook Like a Dad"
+  author: "Rohit Farmer"
+  #cover-image: "images/calum-lewis-vA1L1jRTM70-unsplash.jpg"
+  chapters:
+    - index.qmd
+    - chapters/appetizers.qmd
+    - chapters/breakfast.qmd
+
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    theme: cosmo
+    link-external-icon: true
+    link-external-newwindow: true
+    fontsize: 1.2em
+    #linkcolor: "#AA8B56"
+    
