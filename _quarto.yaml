@@ -9,6 +9,11 @@ book:
     - index.qmd
     - chapters/appetizers.qmd
     - chapters/breakfast.qmd
+    - chapters/salad.qmd
+    - chapters/roasting.qmd
+    - chapters/instapot.qmd
+    - chapters/ratios.qmd
+    - chapters/when-to-use-what.qmd
 
 format:
   html:
