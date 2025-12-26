@@ -1,29 +1,33 @@
 project:
   type: book
+  output-dir: docs
+  resources:
+    - CNAME
+    - .nojekyll
 
 book:
   title: "Cook Like a Dad"
   author: "Rohit Farmer"
   site-url: https://cookbook.rohitfarmer.com/
-  #cover-image: "images/calum-lewis-vA1L1jRTM70-unsplash.jpg"
+  cover-image: "images/book-cover.webp"
   chapters:
     - index.qmd
-    - chapters/appetizers.qmd
-    - chapters/breakfast.qmd
-    - chapters/salad.qmd
-    - chapters/roasting.qmd
-    - chapters/instapot.qmd
-    - chapters/ratios.qmd
-    - chapters/when-to-use-what.qmd
+    - chapters/drinks/index.qmd
+    - chapters/appetizers/index.qmd
+    - chapters/snacks/index.qmd
+    - chapters/breakfasts/index.qmd
+    - chapters/salads/index.qmd
+    - chapters/roasts/index.qmd
+    - chapters/instant-pot-recipes/index.qmd
+    - chapters/common-ratios/index.qmd
+    - chapters/when-to-use-what/index.qmd
 
 format:
   html:
     toc: true
     toc-depth: 4
-    number-sections: true
-    theme: cosmo
+    number-sections: false
+    theme: sandstone
     link-external-icon: true
     link-external-newwindow: true
-    fontsize: 1.2em
-    #linkcolor: "#AA8B56"
-    
+    #fontsize: 1.2em    
