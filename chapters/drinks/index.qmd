@@ -4,6 +4,15 @@
 
 Barley tea is a mild, caffeine-free drink that is enjoyed both hot and cold and is suitable for any time of day. It is gentle on the stomach and is traditionally believed to support digestion, making it a popular everyday beverage in many cultures. With no added sugar or calories, barley tea is a refreshing alternative to sweetened drinks while still providing antioxidants that help combat oxidative stress. Its light, toasty flavor encourages regular hydration, especially for those who find plain water unappealing.
 
+::: {layout-ncol=2}
+
+![](images/20251226_113125.webp)
+
+![](images/20251226_114121.webp)
+
+Barley Tea
+:::
+
 **Ingredients**
 
 1. Barley grains (pearled or roasted)

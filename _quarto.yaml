@@ -8,7 +8,7 @@ project:
 book:
   title: "Cook Like a Dad"
   author: "Rohit Farmer"
-  site-url: https://cookbook.rohitfarmer.com/
+  site-url: https://cooklikeadad.rohitfarmer.com/
   cover-image: "images/book-cover.webp"
   chapters:
     - index.qmd
